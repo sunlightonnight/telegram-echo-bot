@@ -30,7 +30,11 @@ A simple Telegram bot in Python that replies to any message.
 
 ## Пример / Example
 
-Бот запущен на PythonAnywhere...
+**Пользователь:** Привет!  
+**Бот:** Ты написал: Привет!
+
+**Пользователь:** Как дела?  
+**Бот:** Ты написал: Как дела?
 
 ---
 
