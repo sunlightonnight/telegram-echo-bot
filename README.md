@@ -48,7 +48,3 @@ A simple Telegram bot in Python. Replies to messages and can convert currencies.
 ## Лицензия / Licence
 
 MIT
-
-## Лицензия / License
-
-MIT
